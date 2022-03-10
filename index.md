@@ -5,12 +5,11 @@ computer programming 1 class which focused on Processing and C++
 
 ### Screensaver
 OOP: utilized graphics, loops, and random buttons.
+![ScreenSaver](https://github.com/ThusharReppale/programmingPortfolio20212022/blob/gh-pages/images/Screensaver.png)
+* [Source Code](https://github.com/ThusharReppale/programmingPortfolio20212022/blob/gh-pages/Proccessing/Screensaver.zip)
 ### Calculator
 OOP: utilized graphics, buttons, keyboard inputs, and calculations.
 * Screen Capture:
-![SpaceGame](https://github.com/ThusharReppale/programmingPortfolio20212022/blob/gh-pages/images/Screensaver.png)
-* [Source Code](https://github.com/ThusharReppale/programmingPortfolio20212022/blob/gh-pages/Proccessing/Screensaver.zip)
-
 ### Space Game
 OOP: utilized graphics, collision, and powerups.
 ### Flappy Bird
